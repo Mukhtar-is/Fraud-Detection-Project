@@ -1,9 +1,10 @@
 streamlit
-sklearn
+scikit-learn
 pandas
 numpy 
 joblib
 streamlit-cookies-manager
 matplotlib
 plotly
+
 
