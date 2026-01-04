@@ -1,7 +1,9 @@
 streamlit
+sklearn
 pandas
 numpy 
 joblib
 streamlit-cookies-manager
 matplotlib
 plotly
+
