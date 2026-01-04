@@ -15,4 +15,9 @@ I used Python with pandas, numpy, scikit learn, seaborn, and matplotlib for data
 ## Conclusion
 This project demonstrates that machine learning can provide a reliable fraud detection system, capable of identifying most fraudulent transactions in real time. By prioritizing recall over raw accuracy, I ensured the models address the true business challenge: catching fraud in a sea of legitimate payments.
 
-
+## Login Information
+This app uses encrypted cookies to manage user sessions securely.
+'''
+USERNAME = "admin" 
+PASSWORD = "admin"
+'''
