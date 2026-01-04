@@ -17,7 +17,7 @@ This project demonstrates that machine learning can provide a reliable fraud det
 
 ## Login Information
 This app uses encrypted cookies to manage user sessions securely.
-'''
-USERNAME = "admin" 
-PASSWORD = "admin"
-'''
+```
+USERNAME = admin 
+PASSWORD = admin
+```
