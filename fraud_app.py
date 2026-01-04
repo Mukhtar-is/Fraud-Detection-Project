@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-# import joblib
+import joblib
 import pickle
 import time
 
@@ -255,4 +255,5 @@ with tab2:
 # -------------------------------
 st.markdown("---")
 st.caption("Developed as part of a Machine Learning project on Credit Card Fraud Detection.")
+
 
