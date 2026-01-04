@@ -1,11 +1,11 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import joblib
+# import joblib
 import pickle
 import time
 
-from streamlit_cookies_manager import EncryptedCookieManager
+from streamlit-cookies-manager import EncryptedCookieManager
 import matplotlib.pyplot as plt
 import plotly.express as px
 
@@ -255,3 +255,4 @@ with tab2:
 # -------------------------------
 st.markdown("---")
 st.caption("Developed as part of a Machine Learning project on Credit Card Fraud Detection.")
+
