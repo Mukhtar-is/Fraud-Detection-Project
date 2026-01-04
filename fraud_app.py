@@ -5,7 +5,7 @@ import joblib
 import pickle
 import time
 
-from streamlit-cookies-manager import EncryptedCookieManager
+from streamlit_cookies_manager import EncryptedCookieManager
 import matplotlib.pyplot as plt
 import plotly.express as px
 
@@ -255,5 +255,6 @@ with tab2:
 # -------------------------------
 st.markdown("---")
 st.caption("Developed as part of a Machine Learning project on Credit Card Fraud Detection.")
+
 
 
